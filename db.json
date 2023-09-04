@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "brandId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "brandId": 2,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "brandId": 3,
+      "categoryId": 2
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Samsung"
+    },
+    {
+      "id": 3,
+      "name": "Sony"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Audio"
+    }
+  ]
+}
